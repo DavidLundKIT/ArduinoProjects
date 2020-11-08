@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# David Raspian Arduino install stuff
+libraries/
+
